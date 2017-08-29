@@ -69,3 +69,4 @@ With coverage:
 ```sh
 $ python manage.py cov
 ```
+#Flask-jwt-Auth
